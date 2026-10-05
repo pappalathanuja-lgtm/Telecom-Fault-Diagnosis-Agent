@@ -1,0 +1,4 @@
+project_title: Telecom Fault Diagnosis Agent
+product_name: TeleGuard AI
+model_version: synthetic-rf-v1
+java_minimum_version: 17

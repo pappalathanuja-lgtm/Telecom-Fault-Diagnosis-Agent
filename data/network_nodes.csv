@@ -1,0 +1,10 @@
+tower_id,location,signal_strength,cpu_load,temperature,power_status
+T01,Central,0.92,0.31,38,ON
+T02,North,0.87,0.42,41,ON
+T03,North East,0.78,0.54,44,ON
+T04,East,0.84,0.37,39,ON
+T05,South East,0.91,0.48,43,ON
+T06,South,0.82,0.62,47,ON
+T07,South West,0.89,0.35,40,ON
+T08,West,0.76,0.58,46,ON
+T09,North West,0.93,0.28,37,ON
